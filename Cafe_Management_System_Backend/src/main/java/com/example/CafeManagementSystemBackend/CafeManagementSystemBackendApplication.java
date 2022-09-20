@@ -1,4 +1,4 @@
-package com.example.Cafe_Management_System_Backend;
+package com.example.CafeManagementSystemBackend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

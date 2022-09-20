@@ -1,4 +1,4 @@
-package com.example.Cafe_Management_System_Backend;
+package com.example.CafeManagementSystemBackend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
