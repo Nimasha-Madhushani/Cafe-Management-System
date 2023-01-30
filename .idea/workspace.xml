@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2815155f-8f1a-4472-9e37-dcbbce08800f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Cafe_Management_System_Backend/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cafe_Management_System_Backend/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cafe_Management_System_Backend/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cafe_Management_System_Backend/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cafe_Management_System_Backend/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cafe_Management_System_Backend/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cafe_Management_System_Backend/src/main/java/com/example/CafeManagementSystemBackend/CafeManagementSystemBackendApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cafe_Management_System_Backend/src/main/java/com/example/CafeManagementSystemBackend/POJO/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cafe_Management_System_Backend/src/main/java/com/example/CafeManagementSystemBackend/constants/CafeConstants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cafe_Management_System_Backend/src/main/java/com/example/CafeManagementSystemBackend/dao/UserDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cafe_Management_System_Backend/src/main/java/com/example/CafeManagementSystemBackend/rest/UserRest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cafe_Management_System_Backend/src/main/java/com/example/CafeManagementSystemBackend/restimpl/UserRestImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cafe_Management_System_Backend/src/main/java/com/example/CafeManagementSystemBackend/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cafe_Management_System_Backend/src/main/java/com/example/CafeManagementSystemBackend/serviceimpl/UserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cafe_Management_System_Backend/src/main/java/com/example/CafeManagementSystemBackend/utils/CafeUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cafe_Management_System_Backend/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cafe_Management_System_Backend/src/test/java/com/example/CafeManagementSystemBackend/CafeManagementSystemBackendApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="usePluginRegistry" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadAnnotationsAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2GTPjgWgHeyjqYr9FRZjj79BsPD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/L3/L3S1/E/EAD/Practicals/Cafe-Management-System/Cafe_Management_System_Backend",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.archetype.catalogs"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="CafeManagementSystemBackendApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ACTIVE_PROFILES" />
+      <module name="Cafe-Management-System" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.CafeManagementSystemBackend.CafeManagementSystemBackendApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2815155f-8f1a-4472-9e37-dcbbce08800f" name="Default Changelist" comment="" />
+      <created>1666409736979</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666409736979</updated>
+      <workItem from="1666409738763" duration="361000" />
+      <workItem from="1666411290722" duration="437000" />
+      <workItem from="1666411747425" duration="63000" />
+      <workItem from="1666413042941" duration="23000" />
+      <workItem from="1666435288985" duration="1792000" />
+      <workItem from="1666437118422" duration="230000" />
+      <workItem from="1666437378332" duration="81000" />
+      <workItem from="1666437477270" duration="45000" />
+      <workItem from="1666437558846" duration="10000" />
+      <workItem from="1675102657123" duration="145000" />
+      <workItem from="1675102826278" duration="1537000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Cafe_Management_System$CafeManagementSystemBackendApplication.ic" NAME="CafeManagementSystemBackendApplication Coverage Results" MODIFIED="1675102774457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
